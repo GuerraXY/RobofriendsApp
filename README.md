@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# To run the program on the browser
+
+https://guerraxy.github.io/RobofriendsApp/
+
 ## Available Scripts
 
 In the project directory, you can run:
